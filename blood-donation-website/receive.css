@@ -1,0 +1,75 @@
+.custom_r_inline{
+	display: inline;
+}
+
+.custom_select{
+	margin-right: 30px;
+	width: 200px;
+}
+
+.custom_select_bg{
+	margin-right: 30px;
+}
+
+.custom_select_ageg{
+	width: 100px;
+	margin-right: 30px;
+}
+
+input[type=text],select{
+    display: inline-block;
+}
+
+.donor_dash_form{
+	background-color: #ffffff;
+	border-radius: 4px;
+	border:1px solid #F96581;
+	padding: 20px;
+	margin: 20px;
+}
+
+.donor_dash_form h6{
+	display: inline;
+	margin-bottom: 10px;
+}
+
+.donor_dash_form p{
+	display: inline;
+	margin-right: 60px;
+	margin-bottom: 10px;
+}
+
+.div_division{
+	padding: 15px;
+	border:1px solid #F96581;
+	border-radius: 4px;
+}
+
+.page{
+	float: right;
+	list-style: none;
+
+}
+
+.page li{
+	padding:5px;
+	display: inline;
+	color: #F96581;
+	background-color: #ffffff;
+	border: 1px solid #F96581;
+	text-decoration: none;
+}
+
+.page li:hover{
+	color: #ffffff;
+	background-color: #F96581;
+	border: 1px solid #F96581;
+	text-decoration: none;
+}
+
+.page li:active{
+	color: #ffffff;
+	background-color: #F96581;
+	border: 1px solid #F96581;	
+}
+

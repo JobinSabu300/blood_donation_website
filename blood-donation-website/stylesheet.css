@@ -1,0 +1,208 @@
+body{
+	background-color: #F6F5FB;
+}
+
+
+.custom-nav-btn{
+	float: right !important;
+}
+
+.custom-nav-btn a{
+	background-color: #ffffff;
+    background-image: none;
+    width:150px;
+	border:1px solid #F96581;
+	border-radius:50px;
+	color:#F96581;
+	text-decoration:none;
+	padding:6px 20px;
+	margin-right:5px;
+}
+
+.custom-nav-btn a:active{
+    background-color: #F96581;
+    color:#ffffff;
+}
+
+.custom-nav-btn a:hover{
+	background-color: #F96581;
+	color:#ffffff;
+}
+
+.custom-button{
+    background-color: #F96581;
+    background-image: none;
+    border-radius: 25px;
+    color:#ffffff;
+    outline: none;
+}
+
+.custom-nav{
+	background-image:none;
+	background-color:#ffffff;
+	border: 0px;
+    border-radius: 0px;
+}
+
+.custom-form{
+	background-color:#ffffff;
+	height:100%;
+	border:1px solid #F96581;
+	padding:20px;
+	border-radius:4px;
+    margin: 20px;
+    width:400px;
+    min-width: 25%;
+}
+
+.custom-footer{
+	margin-top:20px;
+	border-top:1px solid #ccc;
+	height:66px;
+	background-color:#efefef;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 5px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	border: 1px solid #ccc;
+    outline: none;
+	border-radius: 4px;
+	resize: vertical;
+}
+
+input[type=text]:focus {
+    border: 1px solid #F96581;
+}
+
+input[type=number] {
+    width: 100%;
+    padding: 5px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	border: 1px solid #ccc;
+    outline: none;
+	border-radius: 4px;
+	resize: vertical;
+}
+
+input[type=number]:focus {
+    border: 1px solid #F96581;
+}
+
+input[type=password] {
+    width: 100%;
+    padding: 5px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	border: 1px solid #ccc;
+    outline: none;
+	border-radius: 4px;
+	resize: vertical;
+}
+
+input[type=password]:focus {
+    border: 1px solid #F96581;
+}
+
+input[type=email], textarea{
+    width: 100%;
+    padding: 5px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	border: 1px solid #ccc;
+    outline: none;
+	border-radius: 4px;
+	resize: vertical;
+}
+
+input[type=email]:focus, textarea{
+    border: 1px solid #F96581;
+}
+
+select {
+    width: 70px;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+	outline: none;
+    background-color: #ffffff;
+	resize: vertical;
+}
+
+select:focus{
+    border: 1px solid #F96581;
+}
+
+input[type=button], input[type=submit], input[type=reset]{
+    background-color: #F96581;
+    background-image: none;
+    border: none;
+    border-radius:25px;
+    color: white;
+    padding: 6px 20px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+label {
+    padding: 5px 5px 5px 0;
+    display: inline-block;
+}
+
+.col-25 {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+}
+
+.col-75 {
+    float: left;
+    width: 75%;
+    margin-top: 6px;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}
+
+/*LOGIN FORM*/
+
+#nav-field-1{
+   width:200px;
+  margin-right: 8px;
+}
+
+#nav-field-2{
+   width:200px;
+    margin-right: 8px;
+}
+
+#nav-btn{
+    width:100px;
+    background-color: #fff;
+    color:#F96581;
+    padding: auto;
+    border-radius: 100px;
+    margin-top: 8px;
+    border: 1px solid #F96581;
+    text-align:center;
+}
+
+#nav-btn:hover{
+    background-color: #F96581;
+    color:#fff;
+    
+}
+
+/*LOGIN FORM*/
